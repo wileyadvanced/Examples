@@ -1,0 +1,19 @@
+/terraform
+  /modules
+    /private_cloud
+      main.tf
+      variables.tf
+      outputs.tf
+    /azure
+      main.tf
+      variables.tf
+      outputs.tf
+   /azure
+      main.tf
+      variables.tf
+      outputs.tf
+  /azure
+      main.tf
+      variables.tf
+      outputs.tf
+main.tf
